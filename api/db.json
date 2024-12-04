@@ -1,0 +1,273 @@
+{
+  "users": [
+    {
+      "id": "1786",
+      "nomeRepresentante": "Ministerio do Trabalho",
+      "email": "admin@governo.br",
+      "senha": "123456",
+      "cnpj": "12345678000190",
+      "tipo": "governo",
+      "nomeEmpresa": "Empresa Teste",
+      "endereco": "Rua Teste, 123 - São Paulo, SP",
+      "criterios": {
+        "criterio1": true,
+        "criterio2": false,
+        "criterio3": true,
+        "criterio4": false,
+        "criterio5": true
+      }
+    },
+    {
+      "id": "1",
+      "nomeRepresentante": "Usuário Teste",
+      "email": "teste@teste.com",
+      "senha": "123456",
+      "telefone": "81982290481",
+      "cnpj": "12345678000100",
+      "tipo": "empresa",
+      "nomeEmpresa": "Empresa Teste",
+      "endereco": "Rua Teste, 123 - São Paulo, SP",
+      "criterios": {
+        "criterio1": true,
+        "criterio2": false,
+        "criterio3": true,
+        "criterio4": false,
+        "criterio5": true
+      }
+    }
+  ],
+  "formularios": [
+    {
+      "empresaId": "1",
+      "organizacao": {
+        "nome": "Exemplo Org",
+        "endereco": "Rua Exemplo, 123",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01000-000",
+        "email": "contato@exemplo.org",
+        "paginaWeb": "https://exemplo.org",
+        "natureza": "Pública",
+        "especificacao": ""
+      },
+      "representanteLegal": {
+        "nome": "João da Silva",
+        "cargo": "Diretor",
+        "telefone": "(11) 98765-4321",
+        "email": "joao.silva@exemplo.org"
+      },
+      "contato": {
+        "nome": "Maria Oliveira",
+        "cargo": "Analista de RH",
+        "telefone": "(11) 91234-5678",
+        "email": "maria.oliveira@exemplo.org"
+      },
+      "criteriosParticipacao": [
+        {
+          "descricao": "Ser públicas, privadas ou de economia mista, com 100 ou mais empregadas e empregados, com personalidade jurídica própria.",
+          "atendido": false
+        },
+        {
+          "descricao": "Estar em dia com as obrigações trabalhistas.",
+          "atendido": false
+        },
+        {
+          "descricao": "Não ter sofrido denúncias de trabalho escravo.",
+          "atendido": false
+        }
+      ]
+    },
+    {
+      "id": "9e7e",
+      "historico": "asdasd",
+      "justificativa": "asdasd",
+      "objetivoGeral": "asdas",
+      "parcerias": "asdasdfasdas",
+      "outrasInformacoes": "asdasd",
+      "eixoGestaoPessoas": {
+        "recrutamentoSelecao": {
+          "acao": "ASDsa",
+          "objetivos": "ASD",
+          "indicadores": "sadaS",
+          "metas": "Dasd",
+          "periodo": "aSD"
+        },
+        "capacitacaoTreinamento": {
+          "acao": "adsA",
+          "objetivos": "Dasd",
+          "indicadores": "AD",
+          "metas": "asdA",
+          "periodo": "SDasfasfsa"
+        },
+        "ascensaoFuncional": {
+          "acao": "fasasdd",
+          "objetivos": "ASDASd",
+          "indicadores": "fA",
+          "metas": "dASD",
+          "periodo": "SDAS"
+        },
+        "politicasBeneficios": {
+          "acao": "asdaS",
+          "objetivos": "ASfaSF",
+          "indicadores": "DAsd",
+          "metas": "ASF",
+          "periodo": "Gasd"
+        },
+        "saudeSeguranca": {
+          "acao": "ASDasd",
+          "objetivos": "ASWF",
+          "indicadores": "asd",
+          "metas": "aSD",
+          "periodo": "afasd"
+        }
+      },
+      "eixoCulturaOrganizacional": {
+        "combateDesigualdades": {
+          "acao": "",
+          "objetivos": "",
+          "indicadores": "",
+          "metas": "",
+          "periodo": ""
+        },
+        "capacitacaoRelacionamentos": {
+          "acao": "",
+          "objetivos": "",
+          "indicadores": "",
+          "metas": "",
+          "periodo": ""
+        },
+        "propagandaInstitucional": {
+          "acao": "",
+          "objetivos": "",
+          "indicadores": "",
+          "metas": "",
+          "periodo": ""
+        }
+      },
+      "acoesInovadoras": {
+        "acaoInovadoraI": {
+          "acao": "",
+          "objetivos": "",
+          "indicadores": "",
+          "metas": "",
+          "periodo": ""
+        },
+        "acaoInovadoraII": {
+          "acao": "",
+          "objetivos": "",
+          "indicadores": "",
+          "metas": "",
+          "periodo": ""
+        }
+      }
+    },
+    {
+      "id": "0b41",
+      "historico": "asdasd",
+      "justificativa": "asdasd",
+      "objetivoGeral": "asdas",
+      "parcerias": "asdasdfasdas",
+      "outrasInformacoes": "asdasd",
+      "eixoGestaoPessoas": {
+        "recrutamentoSelecao": {
+          "acao": "ASDsa",
+          "objetivos": "ASD",
+          "indicadores": "sadaS",
+          "metas": "Dasd",
+          "periodo": "aSD"
+        },
+        "capacitacaoTreinamento": {
+          "acao": "adsA",
+          "objetivos": "Dasd",
+          "indicadores": "AD",
+          "metas": "asdA",
+          "periodo": "SDasfasfsa"
+        },
+        "ascensaoFuncional": {
+          "acao": "fasasdd",
+          "objetivos": "ASDASd",
+          "indicadores": "fA",
+          "metas": "dASD",
+          "periodo": "SDAS"
+        },
+        "politicasBeneficios": {
+          "acao": "asdaS",
+          "objetivos": "ASfaSF",
+          "indicadores": "DAsd",
+          "metas": "ASF",
+          "periodo": "Gasd"
+        },
+        "saudeSeguranca": {
+          "acao": "ASDasd",
+          "objetivos": "ASWF",
+          "indicadores": "asd",
+          "metas": "aSD",
+          "periodo": "afasd"
+        }
+      },
+      "eixoCulturaOrganizacional": {
+        "combateDesigualdades": {
+          "acao": "",
+          "objetivos": "",
+          "indicadores": "",
+          "metas": "",
+          "periodo": ""
+        },
+        "capacitacaoRelacionamentos": {
+          "acao": "",
+          "objetivos": "",
+          "indicadores": "",
+          "metas": "",
+          "periodo": ""
+        },
+        "propagandaInstitucional": {
+          "acao": "",
+          "objetivos": "",
+          "indicadores": "",
+          "metas": "",
+          "periodo": ""
+        }
+      },
+      "acoesInovadoras": {
+        "acaoInovadoraI": {
+          "acao": "",
+          "objetivos": "",
+          "indicadores": "",
+          "metas": "",
+          "periodo": ""
+        },
+        "acaoInovadoraII": {
+          "acao": "",
+          "objetivos": "",
+          "indicadores": "",
+          "metas": "",
+          "periodo": ""
+        }
+      }
+    }
+  ],
+  "servicos": [
+    {
+      "id": "1",
+      "name": "Relatório Anual de Equidade",
+      "description": "Relatório padrão para análise anual."
+    },
+    {
+      "id": "2",
+      "name": "Formulário de Denúncias",
+      "description": "Ferramenta para receber denúncias anônimas."
+    },
+    {
+      "id": "088f",
+      "name": "Novo DashBOARD",
+      "description": "quero um dashboard que tenha a opçao de filtrar as empresas por regiao"
+    }
+  ],
+  "fichaInscricao": [
+    {
+      "id": "1",
+      "name": "Relatório Anual de Equidade",
+      "description": "Relatório padrão para análise anual."
+    }
+  ]
+}
